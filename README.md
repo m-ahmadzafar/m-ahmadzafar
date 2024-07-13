@@ -5,7 +5,7 @@ Hello there! Welcome to my developer README. Here you'll find information about 
 
 ## About Me
 
-I'm passionate about software development and enjoy working with a variety of technologies to bring ideas to life. Here's a quick overview of what I know and what I'm currently learning:
+I'm passionate about software development and enjoy working with various technologies to bring ideas to life. Here's a quick overview of what I know and what I'm currently learning:
 
 ### Known Technologies:
 - C
@@ -13,14 +13,13 @@ I'm passionate about software development and enjoy working with a variety of te
 - Dart
 - Flutter
 - Firebase
-- HTML
-- CSS
-- JavaScript
+- HTML, CSS, JS
+- MERN STACK
 - MS SQL
 - Python
 
 ### Currently Learning:
-- MERN Stack
+- DevOps
 
 ## Socials
 
@@ -28,9 +27,9 @@ You can connect with me on [LinkedIn]([https://www.linkedin.com/in/yourusername/
 
 ## Mostly Used Language
 
-While I enjoy working with multiple languages, Java and Javascript are my go-to languages for many projects due to versatility, readability, and extensive libraries.
+While I enjoy working with multiple languages, Javascript is my go-to language for many projects due to its versatility, readability, and extensive libraries. Also because I'm a MERN dev...
 
-Feel free to reach out if you have any questions or if you'd like to collaborate on a project! 😊
+Feel free to reach out if you have any questions or want to collaborate on a project! 😊
 
 <!---
 m-ahmadzafar/m-ahmadzafar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
