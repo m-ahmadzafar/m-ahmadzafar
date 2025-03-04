@@ -19,7 +19,7 @@ I'm passionate about software development and enjoy working with various technol
 - Python
 
 ### Currently Learning:
-- DevOps
+- Next Js
 
 ## Socials
 
